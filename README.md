@@ -1,6 +1,6 @@
 # ACSR (Another CSharp Repl)
 The purpose of this project is to show how quickly and easily a REPL can be created with the help of InteractivePrompt, giving 
-the user full access to a command history, and any completions the user would like to pass along.
+the dev full access to a command history, and any completions the dev would like to pass along.
 
 In this example, we pass the whole command back into the completion list (not just the LHS).
 
